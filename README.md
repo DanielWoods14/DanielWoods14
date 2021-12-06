@@ -1,3 +1,3 @@
-Name: DanielWoods14
+Name: Daniel Woods
 Currently learning: C
 
